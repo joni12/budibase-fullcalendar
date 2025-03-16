@@ -128,10 +128,11 @@
               "en",
               "fr",
               "es",
-              "ru"
+              "ru",
+              "de"
             ],
             "label": "language",
-            "defaultValue": "pt"
+            "defaultValue": "de"
           },
           {
             "type": "event",
